@@ -1,0 +1,8 @@
+{
+  "name": "npm-problem-demo-repo",
+  "version": "0.1.0",
+  "description": "npm looks for package in repo even if it is present in node_modules",
+  "dependencies": {
+    "in-node-modules-folder": "0.1.0"
+  }
+}
